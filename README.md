@@ -1,2 +1,0 @@
-# MyGoProject
-Just Practice
